@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ahmad_Projects/StickerViewExample/app/src/main/res/drawable/_ic_save_.xml" value="0.25435897435897437" />
+        <entry key="..\:/Ahmad_Projects/StickerViewExample/app/src/main/res/drawable/ic_back.xml" value="0.25435897435897437" />
+        <entry key="..\:/Ahmad_Projects/StickerViewExample/app/src/main/res/drawable/ic_delete_all.xml" value="0.25435897435897437" />
+        <entry key="..\:/Ahmad_Projects/StickerViewExample/app/src/main/res/drawable/ic_emptyimage.xml" value="0.25435897435897437" />
+        <entry key="..\:/Ahmad_Projects/StickerViewExample/app/src/main/res/layout/activity_main.xml" value="0.21944444444444444" />
+        <entry key="..\:/Ahmad_Projects/StickerViewExample/app/src/main/res/layout/layout_main.xml" value="0.21944444444444444" />
+        <entry key="..\:/Ahmad_Projects/StickerViewExample/app/src/main/res/layout/text_dialog.xml" value="0.2421875" />
+        <entry key="..\:/Ahmad_Projects/StickerViewExample/sticker/src/main/res/drawable/sticker_transparent_background.xml" value="0.25435897435897437" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="logos">
+        <item>@drawable/lg_4</item>
+        <item>@drawable/lg_5</item>
+        <item>@drawable/lg_6</item>
+        <item>@drawable/lg_7</item>
+        <item>@drawable/lg_8</item>
+    </array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sticker View</string>
+    <string name="image">Image</string>
+    <string name="add_logo">Add Logo</string>
+    <string name="add_text">Add Text</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="done">Done</string>
+    <string name="close">Close</string>
+</resources>
